@@ -1,0 +1,11 @@
+Prompts Utilizados
+
+AÇÃO | PROMPT
+título | Crie um título de um ebook sobre o tema de SQL, o EBOOK é do nicho de programação e o subnicho é de banco de dados, 
+o título deve ser Maravilhoso e curto, e tenha uma temática da Grecia Antiga no título, me liste 5 variações de títulos.
+
+conteúdo | Faça um texto para ebook , com foco em SQL, listando os principais assuntos de SQL com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
+
+
+Copilot - Midjorney não esta aceitando versões gatruitas
+título | epic philosopher in ancient greece thinking about coding, old greek style
